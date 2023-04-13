@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.c443dfca.css",
-    "main.js": "/static/js/main.a34ebeaf.js",
-    "static/media/banner.jpeg": "/static/media/banner.f486181a8c69e276691a.jpeg",
-    "index.html": "/index.html",
-    "main.c443dfca.css.map": "/static/css/main.c443dfca.css.map",
-    "main.a34ebeaf.js.map": "/static/js/main.a34ebeaf.js.map"
+    "main.css": "/excelSearch/static/css/main.c443dfca.css",
+    "main.js": "/excelSearch/static/js/main.c8e68888.js",
+    "static/media/banner.jpeg": "/excelSearch/static/media/banner.f486181a8c69e276691a.jpeg",
+    "index.html": "/excelSearch/index.html",
+    "main.c443dfca.css.map": "/excelSearch/static/css/main.c443dfca.css.map",
+    "main.c8e68888.js.map": "/excelSearch/static/js/main.c8e68888.js.map"
   },
   "entrypoints": [
     "static/css/main.c443dfca.css",
-    "static/js/main.a34ebeaf.js"
+    "static/js/main.c8e68888.js"
   ]
 }
